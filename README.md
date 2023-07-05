@@ -1,1 +1,1 @@
-# DevOps-Cerficate
+# DevOps-Certificate
